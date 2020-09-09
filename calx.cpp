@@ -4,7 +4,7 @@
 #include <vector>
 #include <cmath>
 using namespace std;
-inline void keep_window_open()
+inline void keep_window_open()//for windows
 {
     cin.clear();
     cout << "Please enter a character to exit\n";
